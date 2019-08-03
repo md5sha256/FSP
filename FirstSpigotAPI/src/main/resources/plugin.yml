@@ -1,0 +1,7 @@
+name: FirstSpigotAPI
+version: ${project.version}
+main: com.gmail.andrewandy.firstspigotapi.FirstSpigotAPI
+api-version: 1.13
+prefix: ""
+load: STARTUP
+description: FSAPI

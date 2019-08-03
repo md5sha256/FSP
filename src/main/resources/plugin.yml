@@ -1,0 +1,8 @@
+name: FirstSpigotPlugin
+version: ${project.version}
+main: com.gmail.andrewandy.firstspigotplugin.FirstSpigotPlugin
+api-version: 1.13
+prefix: ""
+load: STARTUP
+authors: [andrewandy]
+description: FSP
